@@ -1,0 +1,104 @@
+body {
+	background-color: #f1f1f1;
+}
+
+header {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background-color: #F5E1DA;
+    width: 100%;
+    height: 70px;	
+}
+
+h3 {
+	color: teal;
+	border-bottom: gray solid 2px;
+	font-family: monospace;
+}
+
+h4 {
+	color: teal;
+	border-bottom: gray solid 1px;
+}
+
+button {
+	color: #a7e7ff;
+    background-color: teal;
+    border-radius: 5px;
+}
+
+.about {
+	margin-top: 100px;
+	/*background-color: purple;*/
+}
+
+.name {
+    padding: 50% 0px;
+}
+
+.namebox {
+    background-color: #476268;
+    float: left;
+    color: #40A798;
+    padding: 0px 40px 0px 0px;
+    margin: 0px 0px 0px 60px;
+    font-family: monospace;
+    line-height: 50px;
+}
+
+.navigation {
+    float: right;
+    background-color: #40A798;
+    line-height: 70px;
+    padding: 0px 10px;
+}
+
+.contact {
+    float: left;
+    margin: 10% 0px 0px 15px;
+    background-color: white;
+    border: lightblue solid 1px;
+    padding: 10px;
+}
+
+.boxtitle {
+	color: teal;
+	border-bottom: gray solid 2px;
+}
+
+.sidepadding {
+	padding: 0px 10px;
+}
+
+.rightpadding {
+	padding-right: 10px;
+}
+
+.floatright {
+	float: right;
+}
+
+.nexttopic {
+	/*padding-right: 510px;*/
+}
+
+.Headshot {
+	float: right;
+	margin-left: 10px;
+	/*background-color: red;*/
+}
+
+.linksbox {
+	top: 60px;
+    right: 30px;
+    margin-top: 13%;
+    float: right;
+    background-color: white;
+    border: lightblue solid 1px;
+}
+
+.iconlinks {
+	height: 125px;
+	width: 125px;	
+}
