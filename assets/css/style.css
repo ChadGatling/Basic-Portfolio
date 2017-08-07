@@ -245,7 +245,7 @@ button:hover {
 	border-top-style: solid; 
 	border-top-width: 5px;
 	border-top-color: #4aaaa5;
-	position: absolute;
+	/*position: absolute;*/
 	bottom: -55%;
 	left: 0px;
 	/*!!!!!!!!!!!!WORK ON STICKY FOOTER!!!!!!!!*/
