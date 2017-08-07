@@ -14,18 +14,11 @@ header {
 h3 {
 	color: teal;
 	border-bottom: gray solid 2px;
-	font-family: monospace;
 }
 
 h4 {
 	color: teal;
 	border-bottom: gray solid 1px;
-}
-
-button {
-	color: #a7e7ff;
-    background-color: teal;
-    border-radius: 5px;
 }
 
 .about {
@@ -59,7 +52,6 @@ button {
     margin: 10% 0px 0px 15px;
     background-color: white;
     border: lightblue solid 1px;
-    padding: 10px;
 }
 
 .boxtitle {
@@ -75,10 +67,6 @@ button {
 	padding-right: 10px;
 }
 
-.floatright {
-	float: right;
-}
-
 .nexttopic {
 	/*padding-right: 510px;*/
 }
@@ -87,18 +75,4 @@ button {
 	float: right;
 	margin-left: 10px;
 	/*background-color: red;*/
-}
-
-.linksbox {
-	top: 60px;
-    right: 30px;
-    margin-top: 13%;
-    float: right;
-    background-color: white;
-    border: lightblue solid 1px;
-}
-
-.iconlinks {
-	height: 125px;
-	width: 125px;	
 }
